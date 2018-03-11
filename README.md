@@ -19,7 +19,7 @@ var pets = ['Max', 'Oscar', 'Charlie', 'Sam']
 - pets[3];
 
 # 3. Remove and Add Array
-var numbers = [1,2,3,4,5]
+var numbers = [1,2,3,4,5];
 - numbers.shift();
 - numbers.unshift(3);
 - numbers.push(3);
